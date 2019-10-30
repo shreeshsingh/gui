@@ -1,0 +1,13 @@
+.aa3{
+    background-color: white;
+    
+        max-width: 500px;
+        max-height:500px;
+        margin:-50px;
+        padding:50px;
+        
+    
+}
+mat-card-title{
+    color:black;
+  }
